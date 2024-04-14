@@ -1,0 +1,1 @@
+On this website, you'll find a variety of examples and demonstrations showcasing the power and versatility of Bootstrap. From navigation bars to grids, cards, forms, and more, we'll walk you through the fundamentals of Bootstrap and show you how to leverage its features to build professional-looking websites.
